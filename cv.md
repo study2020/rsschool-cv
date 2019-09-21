@@ -30,4 +30,9 @@ My goal: to become a good programmer in web development. Fast learner, stress to
  };
 *Experience:*
 I learned the JavaScript language: [Link](http://learn.javascript.ru/) , I have completed HTML/CSS courses online: [Codecademy](https://www.codecademy.com/)
+*Education:*
+Belarusian State Agrarian
+Technical University - Management.
+*English:*
+The level of English is not very high, but I practice it in online courses.
 
