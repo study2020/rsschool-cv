@@ -1,17 +1,16 @@
-
 # **Junior Developer Resume** <h1>
-## Danil Skachko <h2>
------------------------------------------------------
-## Contact Info: <h2> 
-*Mobile:* (+375)33-342-05-96, *Email:* study2020@list.ru
+> **Danil Skachko**
 
-## Summary: <h2> 
-*My goal*: to become a good programmer in web development. Fast learner, stress tolerance, a great desire to learn and learn something new.      
+**Contact Info:** 
+> *Mobile:* (+375)33-342-05-96, *Email:* study2020@list.ru
 
-## Skills: <h2> 
-*HTML/CSS/JAVASCRIPT*
+**Summary:** 
+> *My goal*: to become a good programmer in web development. Fast learner, stress tolerance, a great desire to learn and learn something new.      
 
-## Code examples: <h2>
+**Skills:** 
+> *HTML/CSS/JAVASCRIPT*
+
+**Code examples:**
 ```javascript
    for (i = 0; i < preferences.length;);
     let correntIndex = i + 1;
@@ -31,13 +30,13 @@
  };
  ```
 
-## Experience: <h2>
-I learned the JavaScript language: [Link](http://learn.javascript.ru/) , I have completed HTML/CSS courses online: [Codecademy](https://www.codecademy.com/)
+**Experience:**
+> I learned the JavaScript language: [Link](http://learn.javascript.ru/) , I have completed HTML/CSS courses online: [Codecademy](https://www.codecademy.com/)
 
-## Education: <h2>
-Belarusian State Agrarian
+**Education:**
+> Belarusian State Agrarian
 Technical University - Management.
 
-## English: <h2>
-The level of English is not very high, but I practice it in online courses.
+**English:**
+> The level of English is not very high, but I practice it in online courses.
 
