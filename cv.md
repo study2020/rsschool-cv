@@ -1,5 +1,5 @@
-# **Junior Developer Resume** <h1>
-> **Danil Skachko**
+# Junior Developer Resume <h1>
+> ## Danil Skachko <h2>
 
 **Contact Info:** 
 > *Mobile:* (+375)33-342-05-96, *Email:* study2020@list.ru
