@@ -1,1 +1,1 @@
-# rsschool-cv
+[GitHub](https://github.com/study2020/rsschool-cv/cv)
