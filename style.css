@@ -1,0 +1,19 @@
+.wrapper {
+    position:relative;
+    left: auto;
+    right: auto;
+    margin: auto;
+    width: 1024px;
+    display: grid;
+    text-align: center;
+    border: 1px solid black;
+}
+
+img {
+    border-radius: 25px
+}
+
+.section {
+    display: grid;  
+    
+}
